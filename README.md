@@ -8,5 +8,5 @@
 
 Мои контактные данные:
 ==================================
--💻[Хабр карьера](https://career.habr.com/rvsverchkov)
--💾[Instagram](https://www.instagram.com/rvsverchkov/)
+- 💻[Хабр карьера](https://career.habr.com/rvsverchkov)
+- 💾[Instagram](https://www.instagram.com/rvsverchkov/)
