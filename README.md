@@ -11,3 +11,4 @@
 - 💻[Хабр карьера](https://career.habr.com/rvsverchkov)
 - ✉️rvsverchkov@gmail.com
 - 🌎[Telegram](https://t.me/rvsverchkov)
+- 🌐[LinkedIn](https://www.linkedin.cn/in/rvsverchkov/)
